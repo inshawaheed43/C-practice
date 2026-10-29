@@ -1,0 +1,16 @@
+C:\Users\Links inn\source\repos\P1\bin\Debug\net10.0\P1.exe
+C:\Users\Links inn\source\repos\P1\bin\Debug\net10.0\P1.deps.json
+C:\Users\Links inn\source\repos\P1\bin\Debug\net10.0\P1.runtimeconfig.json
+C:\Users\Links inn\source\repos\P1\bin\Debug\net10.0\P1.dll
+C:\Users\Links inn\source\repos\P1\bin\Debug\net10.0\P1.pdb
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\P1.AssemblyInfoInputs.cache
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\P1.AssemblyInfo.cs
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\P1.csproj.CoreCompileInputs.cache
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\P1.dll
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\refint\P1.dll
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\P1.pdb
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\P1.genruntimeconfig.cache
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\ref\P1.dll
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\P1.csproj.Up2Date
+C:\Users\Links inn\source\repos\P1\obj\Debug\net10.0\P1.sourcelink.json
